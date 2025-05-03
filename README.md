@@ -5,9 +5,8 @@ This repository contains tutorials and resources for detecting concrete linings 
 # Contents
 
 - Mask R-CNN_ResNeXt_GPR.ipynb
-- Mask R-CNN_ResNet_GPR.ipynb
 - YOLOv8_GPR.ipynb
-- U-Net_GPR.ipynb
+
 
 # Mask R-CNN_ResNeXt Model Weight Download
 
