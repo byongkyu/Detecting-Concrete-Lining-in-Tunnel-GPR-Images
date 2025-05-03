@@ -1,0 +1,12 @@
+names:
+- con-lining
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: gpr_line
+  url: https://universe.roboflow.com/smart-gio-lab/gpr_line/dataset/14
+  version: 14
+  workspace: smart-gio-lab
+test: /content/drive/MyDrive/YOLOv8_GPR/GPR_LINE-14/test/images
+train: /content/drive/MyDrive/YOLOv8_GPR/GPR_LINE-14/train/images
+val: /content/drive/MyDrive/YOLOv8_GPR/GPR_LINE-14/valid/images
