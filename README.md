@@ -28,3 +28,10 @@ case where both Mask R-CNN and YOLOv8 successfully
 identify the target areas, (b) a case where Mask R-CNN
 successfully identifies the target areas, while YOLOv8 does
 not.
+
+<img width="371" alt="스크린샷 2025-05-04 오후 3 31 33" src="https://github.com/user-attachments/assets/eaff45f2-1b46-4f72-8a0a-9e7acbc8a25a" />
+
+- Violin plot comparing IoU distributions from
+Mask R-CNN with ResNeXt backbone, Mask R-CNN with
+ResNet backbone, YOLOv8, and U-Net models. Box plots are
+inscribed inside the violin plot.
