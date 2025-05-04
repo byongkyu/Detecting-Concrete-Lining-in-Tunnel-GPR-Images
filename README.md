@@ -19,3 +19,6 @@ This repository contains tutorials and resources for detecting concrete linings 
 - Go into the yaml file and change the path of the test set to yours
 - For YOLOv8, the training files have been uploaded to the GitHub repository, so if you download the test dataset and the yaml file YOLO_best.pt and set a new path, you can see the resulting images.
 
+# Result
+<img width="397" alt="스크린샷 2025-05-04 오후 2 06 24" src="https://github.com/user-attachments/assets/c6e7237e-40dd-4fd7-9250-794af4372602" />
+<img width="405" alt="스크린샷 2025-05-04 오후 2 06 38" src="https://github.com/user-attachments/assets/dc675bbe-9ac2-4cc1-96ac-22638636e666" />
