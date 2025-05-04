@@ -13,3 +13,4 @@ This repository contains tutorials and resources for detecting concrete linings 
 - The training file of this paper, model_final.pth, is provided in hugging face, so you can download it and check the detection results.
 - my_dataset_test can be applied by downloading the test.zip stored on GitHub and specifying the path of your choice
 
+<img width="402" alt="스크린샷 2025-05-04 오후 12 52 59" src="https://github.com/user-attachments/assets/bb47c979-6aee-4463-b87c-b7a555f406f5" />
