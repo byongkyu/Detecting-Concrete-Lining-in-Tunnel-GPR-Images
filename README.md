@@ -10,6 +10,7 @@ This repository contains tutorials and resources for detecting concrete linings 
 # How to Detect Concrete Lining in GPR Images Using Mask R-CNN
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/byongkyu/Detecting-Concrete-Lining-in-Tunnel-GPR-Images/blob/main/Mask%20R-CNN/Mask_R_CNN_ResNeXt.ipynb)
 - The trained model, `model_final.pth`, is provided in hugging face, so you can download it and check the detection results.
+- 'model_final.pth': It is stored in the path https://drive.google.com/file/d/1HV493Hvprxhdm3O3C72vsnwVzBrn2t3M/view?usp=drive_link, so you can download it and use it.
 - `my_dataset_test` can be applied by downloading the test.zip stored on GitHub and specifying the path of your choice
 
 # How to Detect Concrete Lining in GPR Images Using YOLOv8
