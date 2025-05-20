@@ -11,11 +11,13 @@ This repository contains tutorials and resources for detecting concrete linings 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/byongkyu/Detecting-Concrete-Lining-in-Tunnel-GPR-Images/blob/main/Mask%20R-CNN/Mask_R_CNN_ResNeXt.ipynb)
 - `model_final.pth`: It is stored in the path https://drive.google.com/file/d/1HV493Hvprxhdm3O3C72vsnwVzBrn2t3M/view?usp=drive_link, so you can download it and use it.
 - `my_dataset_test` can be applied by downloading the test.zip stored on GitHub and specifying the path of your choice
+- When you mount the drive of Google Colab, you can see a window where you can check the files on the left, and if you put all the files in the Mask R-CNN folder here and set the path in the code to the path where you saved the files in the code, the prediction will proceed.
 
 # How to Detect Concrete Lining in GPR Images Using YOLOv8
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/byongkyu/Detecting-Concrete-Lining-in-Tunnel-GPR-Images/blob/main/YOLOv8/YOLOv8.ipynb)
 - Go into the `yaml` file and change the path of the test set to yours.
 - For YOLOv8, the trained model weights have been uploaded to the GitHub repository, so if you download the test dataset and the yaml file YOLO_best.pt and set a new path, you can see the resulting images.
+- When you mount the drive of Google Colab, you can see a window where you can check the files on the left, and if you put all the files in the YOLOv8 folder here and set the path in the code to the path where you saved the files in the code, the prediction will proceed.
 
 # Result
 <img width="397" alt="스크린샷 2025-05-04 오후 2 06 24" src="https://github.com/user-attachments/assets/c6e7237e-40dd-4fd7-9250-794af4372602" /> 
