@@ -27,6 +27,8 @@ identify the target areas, (b) a case where Mask R-CNN
 successfully identifies the target areas, while YOLOv8 does
 not.
 
+- The detection result corresponding to (a) is the 61st image in the detection result set. Both Mask R-CNN and YOLOv8 were detected in the same test set order.The detection result corresponding to (b) is the 3rd image in the detection result image. If you want to quickly see the detection results corresponding to (a) and (b), you can check the YOLOv8.ipynb file.
+
 <img width="371" alt="스크린샷 2025-05-04 오후 3 31 33" src="https://github.com/user-attachments/assets/eaff45f2-1b46-4f72-8a0a-9e7acbc8a25a" />
 
 - Violin plot comparing IoU distributions from
